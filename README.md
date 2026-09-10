@@ -80,12 +80,6 @@ I turn raw, messy data into insights that businesses can actually act on — and
 
 ---
 
-### 📌 Featured Work
-
-> Pin your top 3–4 repositories on your GitHub profile (via **Customize your pins**) so they appear here automatically — ideally a mix of a portfolio dashboard, a Python/SQL analysis project, and something that shows your teaching work.
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
