@@ -4,7 +4,7 @@
 
 ### Data Analyst | Data Scientist | Power BI Developer | SQL Specialist
 
-### Founder of TechTrainity 🚀
+### Founder of TechTrainity
 
 <p>
 Transforming data into actionable business insights and helping aspiring analysts become job-ready through practical projects.
@@ -14,7 +14,7 @@ Transforming data into actionable business insights and helping aspiring analyst
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am passionate about helping businesses and individuals make data-driven decisions.
 
@@ -103,7 +103,7 @@ My mission is simple:
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -113,7 +113,7 @@ My mission is simple:
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -184,7 +184,7 @@ I regularly publish:
 - Python for Beginners
 - Career Growth Tips
 
-📌 Subscribe:
+Subscribe:
 
 https://www.youtube.com/@johnnydanielogechukwu
 
@@ -202,6 +202,6 @@ https://chat.whatsapp.com/L5JXLn1vC0CKFApumZ3eYK
 
 <div align="center">
 
-### 🚀 Turning Data Into Decisions
+### Turning Data Into Decisions
 
 </div>
